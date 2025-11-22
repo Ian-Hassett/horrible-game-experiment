@@ -1,4 +1,4 @@
-# horrible-game-experiment
+# game-experiment
 ## should not be played
 This is a unfinished game I was making in high school.
 I decided to see how far I could go towards a platformer only reading documentation. no tutorieals.
